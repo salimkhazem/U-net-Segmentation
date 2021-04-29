@@ -6,4 +6,4 @@
 
 « [1505.04597] U-Net: Convolutional Networks for Biomedical Image Segmentation ».
 
-![Convolutional-neural-network-CNN-architecture-based-on-UNET-Ronneberger-et-al](https://user-images.githubusercontent.com/26838474/116575995-71931400-a90f-11eb-8802-addfc3debb72.png)
+![u-net-architecture](https://user-images.githubusercontent.com/26838474/116584365-8d9ab380-a917-11eb-8fbf-d5f1fb6d1b19.png)
